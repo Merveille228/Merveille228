@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Merveille AMEVIGBE
-- 👀 I’m interested in the web development 
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on good project that you will have about, help if possible and have helps 
+- 👀 I’m interested in the web development & mobile development, always learning and building cool stuff
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on good project that you will have about, help if possible and have helps
+- 🛠️Tech Stack : python, javaScript, dart, git, flutter
 - 📫 How to reach me
 - merveilleamevigbe2@gmail.com
 - ⚡ Fun fact: i like everything related to computers, and I find it fun 😸
