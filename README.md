@@ -56,7 +56,14 @@ My learning approach is strongly **hands-on**, using practical projects to deepe
 - Logical reasoning  
 - Problem solving  
 - Code structure & readability
+  ---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Merveille228\&show_icons=true\&count_private=true\&theme=tokyonight)
+
 ---
+
 ## 📊 GitHub Activity
 
 - Active contributor on personal and learning projects  
@@ -65,6 +72,13 @@ My learning approach is strongly **hands-on**, using practical projects to deepe
 - Continuous improvement through practice  
 
 
+
+---
+
+
+## 🧩 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merveille228\&layout=compact\&theme=tokyonight)
 
 ---
 ## 🔥 GitHub Activity
